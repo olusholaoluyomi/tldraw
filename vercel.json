@@ -1,0 +1,5 @@
+{
+  "buildCommand": "yarn install && yarn build",
+  "outputDirectory": "apps/www/out",
+  "rootDirectory": "apps/www"
+}
